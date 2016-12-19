@@ -7,10 +7,26 @@
    <FileRef
       location = "group:aus2.txt">
    </FileRef>
+   <Group
+      location = "group:Data"
+      name = "Data">
+      <FileRef
+         location = "group:univ-vs-country-0.txt">
+      </FileRef>
+      <FileRef
+         location = "group:univ-vs-country-1.txt">
+      </FileRef>
+      <FileRef
+         location = "group:univ-vs-country-2.txt">
+      </FileRef>
+   </Group>
    <FileRef
       location = "group:aus3.txt">
    </FileRef>
    <FileRef
       location = "group:plot.cp">
+   </FileRef>
+   <FileRef
+      location = "group:country.py">
    </FileRef>
 </Workspace>
